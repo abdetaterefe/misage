@@ -22,6 +22,8 @@ jobs:
           flutter-version: '3.10.6'
           channel: 'stable'
           cache: true
+          cache-key: 'flutter-:os:-:channel:-:version:-:hash:'
+          cache-path: '${{ runner.tool_cache }}/flutter/:channel:-:version:'
       - run: flutter pub get
       - run: flutter build apk --split-per-abi
       - uses: softprops/action-gh-release@v1
@@ -32,6 +34,7 @@ jobs:
             build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk
           tag_name: v${{ github.run_number }}
           release_name: Release ${{ github.run_number }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           body: |
             This is the release of the APK built from commit ${{ github.sha }}.
             It includes the following changes:
