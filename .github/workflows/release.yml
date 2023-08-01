@@ -24,15 +24,16 @@ jobs:
           cache: true
       - run: flutter pub get
       - run: flutter build apk --split-per-abi
-
-      # - name: Release
-      # - uses: softprops/action-gh-release@v1
-      #   with:
-      #     files: app/build/outputs/apk/release/*.apk
-      #     tag_name: v${{ github.run_number }}
-      #     release_name: Release ${{ github.run_number }}
-      #     body: |
-      #       This is the release of the APK built from commit ${{ github.sha }}.
-      #       It includes the following changes:
-      #       - Feature 1
-      #       - Feature 2
+      - uses: softprops/action-gh-release@v1
+        with:
+          files: |
+            build/app/outputs/flutter-apk/app-x86_64-release.apk
+            build/app/outputs/flutter-apk/app-arm64-v8a-release.apk
+            build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk
+          tag_name: v${{ github.run_number }}
+          release_name: Release ${{ github.run_number }}
+          body: |
+            This is the release of the APK built from commit ${{ github.sha }}.
+            It includes the following changes:
+            - Feature 1
+            - Feature 2
