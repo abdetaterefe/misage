@@ -23,7 +23,7 @@ jobs:
           channel: 'stable'
           cache: true
       - run: flutter pub get
-      - run: flutter build apk --target-platform android-arm64,android-arm,android-x86,android-x64 --split-per-abi
+      - run: flutter build apk --split-per-abi
 
       # - name: Release
       # - uses: softprops/action-gh-release@v1
