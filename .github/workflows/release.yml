@@ -35,8 +35,4 @@ jobs:
           tag_name: v${{ github.run_number }}
           name: Release ${{ github.run_number }}
           token: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
-          body: |
-            This is the release of the APK built from commit ${{ github.sha }}.
-            It includes the following changes:
-            - Feature 1
-            - Feature 2
+          body: This is the release of the APK built from commit ${{ github.sha }}.

@@ -1,131 +1,33 @@
 {
     "messages": [
         {
-            "bank": "Bank of America",
+            "bank": "COOPayEBIRR",
             "messages": [
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "Maecenas sed diam eget risus varius blandit sit amet non magna.",
-                "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-                "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
+                "[-[--EBIRR-COOpay--]-] Welcome, you have successfully registered and activated your account.",
+                "[-[--EBIRR-COOpay--]-] Ref:1234567890 Confirmed. ETB1 Received from Tilahun Gessesse (987654321), Date:12/01/23 12:34:56 your new A/C balance is ETB1",
+                "[-EBIRR-COOpay-] With Ref No.1234567890 ETB1 sent to Tilahun Gessesse (987654321) at 12/01/23 12:34:60, Your balance is ETB0.",
+                "<#> [--EBIRR-COOpay--] Activation code is 123456, please do not share anyone"
             ]
         },
         {
-            "bank": "Wells Fargo",
+            "bank": "BOA",
             "messages": [
-                "Aenean lacinia bibendum nulla sed consectetur.",
-                "Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
-                "Donec id elit non mi porta gravida at eget metus.",
-                "Morbi accumsan ipsum velit.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
+                "Your OTP code is 226178, Please do not share this OTP with anyone.",
+                "Dear Customer, A/C No. 1*****00 has been debited with ETB 1,000.00 on 12/01/2023 @WOLISO BRANCH. Info: Transfer to Telebirr-251912345678. Avail. bal: ETB 800.00. Join our telegram channel for latest updates https://t.me/BoAEth Bank of Abyssinia. for further enquires please call us Toll free (24/7) on 8397.",
+                "Dear Customer, A/C No. 1*****00 has been credited By A/R TELE BIRRwith ETB 1,000.00 on 12/01/2023 @E-BANKING-DEPARTMENT Info: Telebirr to Boa Accoun - 123456995. Aval. bal: ETB 1200.00. Join our telegram channel for latest updates https://t.me/BoAEth Bank of Abyssinia. for further enquires please call us Toll free (24/7) on 8397."
             ]
         },
         {
-            "bank": "Chase",
+            "bank": "CBO",
             "messages": [
-                "Maecenas sed diam eget risus varius blandit sit amet non magna.",
-                "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-                "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
+                "Dear Customer your Account ****1234 has been Credited with ETB  5.00 Ref: TT12345678 from  Woliso Branch BY Tilahun Gessesse . Your Current Balance is ETB 5. Join our Telegram Channel https://t.me/coopbankoromia. Thank you for Banking with CBO!"
             ]
         },
         {
-            "bank": "America",
+            "bank": "Awash",
             "messages": [
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "Maecenas sed diam eget risus varius blandit sit amet non magna.",
-                "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-                "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
-            ]
-        },
-        {
-            "bank": "Fargo",
-            "messages": [
-                "Aenean lacinia bibendum nulla sed consectetur.",
-                "Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
-                "Donec id elit non mi porta gravida at eget metus.",
-                "Morbi accumsan ipsum velit.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
-            ]
-        },
-        {
-            "bank": "Chases",
-            "messages": [
-                "Maecenas sed diam eget risus varius blandit sit amet non magna.",
-                "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-                "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
-            ]
-        },
-        {
-            "bank": "Bank of",
-            "messages": [
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "Maecenas sed diam eget risus varius blandit sit amet non magna.",
-                "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-                "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
-            ]
-        },
-        {
-            "bank": "Wells",
-            "messages": [
-                "Aenean lacinia bibendum nulla sed consectetur.",
-                "Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
-                "Donec id elit non mi porta gravida at eget metus.",
-                "Morbi accumsan ipsum velit.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
-            ]
-        },
-        {
-            "bank": "Cha",
-            "messages": [
-                "Maecenas sed diam eget risus varius blandit sit amet non magna.",
-                "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-                "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
-            ]
-        },
-        {
-            "bank": "BankAmerica",
-            "messages": [
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-                "Maecenas sed diam eget risus varius blandit sit amet non magna.",
-                "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-                "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
-            ]
-        },
-        {
-            "bank": "Wargo",
-            "messages": [
-                "Aenean lacinia bibendum nulla sed consectetur.",
-                "Cras justo odio, dapibus ac facilisis in, egestas eget quam.",
-                "Donec id elit non mi porta gravida at eget metus.",
-                "Morbi accumsan ipsum velit.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
-            ]
-        },
-        {
-            "bank": "Case",
-            "messages": [
-                "Maecenas sed diam eget risus varius blandit sit amet non magna.",
-                "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.",
-                "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-                "Etiam porta sem malesuada magna mollis euismod.",
-                "Donec sed odio dui."
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Awash Bank for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Awash Bank."
             ]
         }
     ]
