@@ -29,6 +29,69 @@
                 "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Awash Bank for your all rounded banking service.",
                 "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Awash Bank."
             ]
+        },
+        {
+            "bank": "CBE",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing CBE Bank for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. CBE Bank."
+            ]
+        },
+        {
+            "bank": "Amole",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Amole for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Amole."
+            ]
+        },
+        {
+            "bank": "CBE birr",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing CEB birr for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. CBE birr."
+            ]
+        },
+        {
+            "bank": "Dashen Bank",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Dashen Bank for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Dashen Bank."
+            ]
+        },
+        {
+            "bank": "Hibret Bank",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Hibret Bank for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Hibret Bank."
+            ]
+        },
+        {
+            "bank": "Oromia Bank",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Oromia Bank for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Oromia Bank."
+            ]
+        },
+        {
+            "bank": "Amhara Bank",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Amhara Bank for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Amhara Bank."
+            ]
+        },
+        {
+            "bank": "127",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Telebirr for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Telebirr."
+            ]
+        },
+        {
+            "bank": "Zemen Bank",
+            "messages": [
+                "Welcome Dej. Geresu Duki! We are pleased to be your selected Bank. Your customer ID is 12345678 and your Saving account No 012345678900 is successfully opened with Weliso  branch. For any enquiry,please call 8980. Thank you for choosing Zemen Bank for your all rounded banking service.",
+                "Dear Customer, your Account 01234******00 has been Debited with ETB -300.00 on 2023-01-12 12:34:56. Your balance now is ETB 30.00. For any complaint or enquiry, please call 8980. Thank You. Zemen Bank."
+            ]
         }
     ]
 }
